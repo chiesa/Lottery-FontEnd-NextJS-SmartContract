@@ -46,6 +46,7 @@ Simplier way to add to IPFS is:
 3. selezioniamo IPFS e quindi cartella out 
 4. inseriamo come comandi da eseguire ``` yarn && yarn build && yarn next export ```
 
+
 ## Getting Started
 First, run the development server:
 ```bash
